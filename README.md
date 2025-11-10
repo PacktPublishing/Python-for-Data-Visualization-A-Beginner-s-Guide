@@ -1,6 +1,3 @@
-
-<b><p align='center'>[![Packt Sale](https://static.packt-cdn.com/assets/images/packt+events/Improve_UX.png)](https://packt.link/algotradingpython)</p></b> 
-
 # Python-for-Data-Visualization-A-Beginner-s-Guide
 This beginner-friendly course takes us on a journey into data visualization. You will learn to transform raw data into stunning visuals using Matplotlib, Seaborn, and Plotly. From charts to dynamic heatmaps, we will master the essentials. Fuel your curiosity, enhance your skills, and communicate insights effectively to become a Python data visualization pro! 
 
